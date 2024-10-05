@@ -1,7 +1,7 @@
 # Hiretainity - Revolutionizing Hiring
 
 ## 🏆 Hackathon Achievement
-**Hiretainity** secured the **1st spot** at **Alphabyte 1.0**, a state-level hackathon organized by **GDSC PCCoE** in **March 2024**. Our team, comprising Ryan Rego, Tajjuddin Malnas, Rohan Ramidwar, and Pawan Patil, developed this cutting-edge solution to tackle inefficiencies in the traditional hiring process.
+**Hiretainity** secured the **1st spot** at **Alphabyte 1.0**, a state-level hackathon organized by **GDSC PCCoE** in **March 2024**. Our team, comprising **Ryan Rego**, **[Tajjuddin Malnas](https://github.com/tajmalnas)**, **[Rohan Ramidwar](https://github.com/rohanramidwar)**, and **[Pawan Patil](https://github.com/pawanp51)**, developed this cutting-edge solution to tackle inefficiencies in the traditional hiring process.
 
 ---
 
@@ -64,7 +64,7 @@ Traditional hiring processes often involve manual, time-consuming tasks such as 
 
 ## 👥 Team Members
 - **Ryan Rego**  
-- **Tajjudin Malnas**  
+- **Tajjuddin Malnas**  
 - **Rohan Ramidwar**  
 - **Pawan Patil**  
 
