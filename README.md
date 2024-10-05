@@ -77,7 +77,7 @@ Traditional hiring processes often involve manual, time-consuming tasks such as 
 
 ## 📬 Contact
 For any inquiries, feel free to reach out at:  
-ryanrego14@gmail.com
-[LinkedIn Profile](https://www.linkedin.com/in/ryan-rego-pccoe/)
-Phone: 90222-40879
+- ryanrego14@gmail.com
+- [LinkedIn Profile](https://www.linkedin.com/in/ryan-rego-pccoe/)
+- Phone: 90222-40879
 
